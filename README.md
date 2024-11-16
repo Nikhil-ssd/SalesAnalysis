@@ -114,6 +114,15 @@ Fit View: Fit the Dashboard to “Entire View”, wherever applicable.
 Sheet Titles: Describe each visualization with a meaningful title.
 Hide Sheets: After the dashboard is all set to be published, hide all the sheets, and clean up your workbook. Also, you can hide all unused fields if needed.
 
+### Instructions on how to run this project code on your system
+Step 1 : Download this project repository as a zip file. 
+Step 2 : Unzip the folder to your desired location 
+Step 3 : If you don't have Tableau Public Installed , go to https://www.tableau.com/products/public/download, download the installer, install Tableau public and launch it. 
+Step 5 : Navigate to this project folder. 
+Step 6 : When inside navigate to Superstore Sales Analysis
+Step 7 : Open the Capstone Project 2.twbx using Tableau Public. 
+Step 8 : Go through the Tableau Project Requirements mentioned above and compare the visuals in the Tableau Workbook accordingly.
+
 ### Purpose of Solving this problem
 
 Analyzing the sales data of a store like Superstore using Tableau can provide valuable insights for decision-making across various operational, marketing, and strategic areas. Tableau's powerful visualization capabilities make it easier to identify trends, patterns, and actionable insights. Here's a breakdown of the key purposes:
